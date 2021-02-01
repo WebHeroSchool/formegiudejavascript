@@ -165,5 +165,3 @@ var foo = {
     bar: "baz",
     quxx: "qux"
 };
-
-
